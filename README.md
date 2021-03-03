@@ -1,1 +1,1 @@
-# rentapp-web
+# RentApp
